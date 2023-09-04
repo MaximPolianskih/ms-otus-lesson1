@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+п»їusing Microsoft.AspNetCore.Mvc;
 
 namespace SimpleApi.Controllers
 {
@@ -16,9 +16,9 @@ namespace SimpleApi.Controllers
         [HttpGet()]
         public IActionResult Check()
         {
-            _logger.LogInformation($"Метод {nameof(Check)} был вызван");
+            _logger.LogInformation($"РњРµС‚РѕРґ {nameof(Check)} Р±С‹Р» РІС‹Р·РІР°РЅ");
 
-            return Ok();
+            return Ok(new { status = "OK" });
         }
     }
 }
