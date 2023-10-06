@@ -34,7 +34,7 @@
 									"variable": [
 										{
 											"key": "userId",
-											"value": "40422916",
+											"value": "1",
 											"description": "(Required) "
 										}
 									]
@@ -63,7 +63,9 @@
 											"variable": [
 												{
 													"key": "userId",
-													"value": "40422916",
+													"value": "1",
+													"type": "text",
+													"enabled": true,
 													"description": "(Required) "
 												}
 											]
@@ -100,7 +102,7 @@
 									"variable": [
 										{
 											"key": "userId",
-											"value": "40422916",
+											"value": "1",
 											"description": "(Required) "
 										}
 									]
@@ -124,7 +126,9 @@
 											"variable": [
 												{
 													"key": "userId",
-													"value": "40422916",
+													"value": "1",
+													"type": "text",
+													"enabled": true,
 													"description": "(Required) "
 												}
 											]
@@ -175,7 +179,7 @@
 									"variable": [
 										{
 											"key": "userId",
-											"value": "40422916",
+											"value": "1",
 											"description": "(Required) "
 										}
 									]
@@ -208,7 +212,9 @@
 											"variable": [
 												{
 													"key": "userId",
-													"value": "40422916",
+													"value": "1",
+													"type": "text",
+													"enabled": true,
 													"description": "(Required) "
 												}
 											]
