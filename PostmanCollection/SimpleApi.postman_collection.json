@@ -355,7 +355,7 @@
 	"variable": [
 		{
 			"key": "baseUrl",
-			"value": "/",
+			"value": "http://arch.homework",
 			"type": "string"
 		}
 	]
